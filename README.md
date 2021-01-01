@@ -1,3 +1,6 @@
+## This is just a fork of [Eddoww](https://github.com/eddoww)'s git, i'll try to add more stuff to this as i go along.
+
+
 # Modded Schematics
 
 Schematic files for modded Minecraft 1.12.2 that can be used with
